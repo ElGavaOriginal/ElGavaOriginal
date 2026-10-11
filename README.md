@@ -8,7 +8,7 @@ My interests sit at the intersection of computer science and human language, wit
 My academic experience includes software development, data structures, algorithms, machine learning, artificial intelligence, computer vision, and natural language processing. 
 
 ## Featured Projects
-### ¿Lleva Tilde?
+### [¿Lleva Tilde?](https://github.com/ElGavaOriginal/lleva-tilde)
 A Spanish-language mobile application that uses linguistic rules and dictionary-based logic to determine whether a word in Spanish requires an accent mark. 
 
 ### ¿Qué es?
