@@ -14,7 +14,7 @@ A Spanish-language mobile application that uses linguistic rules and dictionary-
 ### [¿Qué es?](https://github.com/ElGavaOriginal/que-es)
 A computer vision and language-learning project that uses object recognition to connect real-world objects to Spanish articles. 
 
-### Camera Calibration & Augmented Reality
+### [Camera Calibration & Augmented Reality](https://github.com/ElGavaOriginal/camera-calibration-ar)
 A computer vision project implementing camera calibration, pose estimation, feature detection, and augmented-reality projection using OpenCV. 
 
 ## Technologies
