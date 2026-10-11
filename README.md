@@ -11,7 +11,7 @@ My academic experience includes software development, data structures, algorithm
 ### [¿Lleva Tilde?](https://github.com/ElGavaOriginal/lleva-tilde)
 A Spanish-language mobile application that uses linguistic rules and dictionary-based logic to determine whether a word in Spanish requires an accent mark. 
 
-### ¿Qué es?
+### [¿Qué es?](https://github.com/ElGavaOriginal/que-es)
 A computer vision and language-learning project that uses object recognition to connect real-world objects to Spanish articles. 
 
 ### Camera Calibration & Augmented Reality
