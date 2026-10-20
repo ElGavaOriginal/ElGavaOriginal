@@ -3,7 +3,7 @@ Language Technology • Applied AI • Natural Language Processing • Computer 
 
 M.S. Computer Science candidate at Northeastern University with a professional background in language education, interpretation, and applied linguistics.
 
-My interests sit at the intersection of computer science and human language, with a focus on how natural language processing, machine learning, and computer vision can be applied to technologies that support second-language learning and communication.
+My interests sit at the intersection of computer science and human language, with a focus on how natural language processing, machine learning, computer vision, and automatic speech recognition can be applied to technologies that support second-language learning and communication.
 
 My academic experience includes software development, data structures, algorithms, machine learning, artificial intelligence, computer vision, and natural language processing. 
 
